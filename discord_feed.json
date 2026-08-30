@@ -1,0 +1,33 @@
+{
+  "configVersion": 1,
+  "minimumModVersion": "1.0.0",
+  "communityName": "Obychnaya Konfa",
+  "settings": {
+    "events": {
+      "deaths": true,
+      "extracts": true,
+      "runThroughs": true,
+      "loot": true,
+      "quests": true,
+      "bossKills": true,
+      "levelUps": true,
+      "achievements": true
+    },
+    "loot": {
+      "minimumValue": 500000
+    },
+    "screenshots": {
+      "enabled": false,
+      "deathScreenshots": false,
+      "extractScreenshots": false,
+      "rareLootScreenshots": false,
+      "questScreenshots": false,
+      "bossKillScreenshots": false,
+      "achievementScreenshots": false
+    },
+    "filters": {
+      "minimumRaidDuration": 60,
+      "ignoredMaps": []
+    }
+  }
+}
